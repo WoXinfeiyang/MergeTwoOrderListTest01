@@ -1,6 +1,6 @@
 
 public class MergeTwoOrderListTest01 {
-
+	/*合并两个有序链表*/
 	public static Node mergeTwoOrderList01(Node nA,Node nB){
 		Node newHead=null;
 		if(nA==null){
